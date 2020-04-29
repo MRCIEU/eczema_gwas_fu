@@ -1,3 +1,4 @@
+# Atopic Dermatitis GWAS Annotation & Prioritisation Pipeline (ADGAPP)
 ## Preparation of LD reference panel data
 **1000 Genomes EUR. Generate haploblocks with gpart and bigLD**
 ```
